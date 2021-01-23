@@ -1,5 +1,9 @@
 # Super Mario 64 Port
 
+## Prebuilt binaries note
+I've made a perk available to you, I have already compiled the game and uploaded the ELF file in the release section, so you don't need to download the original n64 rom and install build tools on a PC, but can directly download the executable onto the PS2 and play.
+[Direct download .ELF file](https://github.com/pattorgod/sm64-port/releases/latest/download/sm64.us.f3dex2e.elf)
+
 - This repo contains a full decompilation of Super Mario 64 (J), (U), and (E) with minor exceptions in the audio subsystem.
 - Naming and documentation of the source code and data structures are in progress.
 - Efforts to decompile the Shindou ROM steadily advance toward a matching build.
